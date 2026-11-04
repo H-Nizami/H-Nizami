@@ -31,7 +31,7 @@ Go services that feed them. Before that I did applied deep learning research at 
 |---|---|---|
 | [**agent-hardening-kit**](https://github.com/H-Nizami/agent-hardening-kit) | Takes a LangGraph agent from demo to production: tenant-scoped retrieval, guardrails, durable Temporal execution with human approval, sanitized OpenTelemetry, SLO burn-rate alerts, and a Helm chart that passed 3/3 worker pod-kill tests on kind. | Python · LangGraph · Temporal · Helm · OTel |
 | [**claude-infra-review**](https://github.com/H-Nizami/claude-infra-review) | Reviews Terraform and Kubernetes pull requests. Deterministic scanners run first, then a read-only LLM reviewer with a spending cap. On a seeded benchmark, scanners alone caught 7/14 misconfigurations; with the reviewer, 14/14. | GitHub Actions · Claude Code · tflint · checkov · trivy |
-| [**eks-landing-zone**](https://github.com/H-Nizami/eks-landing-zone) | EKS foundation for agent and LLM workloads: VPC, private control plane, and scoped Pod Identity. 23/23 mocked plan tests pass on both Terraform 1.17 and OpenTofu 1.13. | Terraform · OpenTofu · AWS EKS |
+| [**eks-landing-zone**](https://github.com/H-Nizami/eks-landing-zone) | EKS landing zone for agent and LLM workloads: private control plane, Karpenter, External Secrets and Kyverno. 41/41 mocked plan tests pass on both Terraform 1.17 and OpenTofu 1.13; not yet deployed live. | Terraform · OpenTofu · AWS EKS |
 
 ## Tech stack
 
