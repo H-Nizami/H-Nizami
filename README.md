@@ -18,10 +18,10 @@ multi-agent pipelines to production at a Silicon Valley Kubernetes reliability s
 covers LangGraph and Temporal workflows, evaluation harnesses, human-in-the-loop review, and the
 Go services that feed them. Before that I did applied deep learning research at NUST.
 
-**What I help teams with**
+**Focus areas**
 
-- Taking an agent prototype to production: evals in CI, guardrails, tracing, budget caps and durable execution.
-- Running agent and LLM workloads on Kubernetes and EKS with Helm, SLOs and tested failure recovery.
+- Agent reliability: evals in CI, guardrails, tracing, budget caps and durable execution.
+- Agent and LLM workloads on Kubernetes and EKS: Helm, SLOs and tested failure recovery.
 - Infrastructure as code with Terraform and OpenTofu, plus policy and security scanning in pull requests.
 
 ## Featured projects
