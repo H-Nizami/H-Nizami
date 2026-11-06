@@ -9,7 +9,6 @@
   <a href="https://linkedin.com/in/muhammad-haseeb-613670212"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <img alt="CKA" src="https://img.shields.io/badge/CKA-certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img alt="CKAD" src="https://img.shields.io/badge/CKAD-certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img alt="Open to remote contracts" src="https://img.shields.io/badge/Open_to-remote_contracts-2EA44F?style=for-the-badge">
 </p>
 
 ---
